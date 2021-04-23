@@ -1,5 +1,5 @@
 const arrayOfArray = (arr) => {
-    const itemsPerPage = 5;
+    const itemsPerPage = 10;
     const result = [];
     const pages = Math.ceil(arr.length / itemsPerPage);
     for (let index = 0; index < pages; index++) {

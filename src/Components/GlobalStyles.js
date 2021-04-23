@@ -8,7 +8,13 @@ const GlobalStyles = createGlobalStyle`
     }
     body{
         font-family: 'Antonio', sans-serif;
+        background-color: #eaf9fc;
+        color: #023e8a;
 
+    }
+
+    a,button{
+        cursor: pointer;
     }
 
 

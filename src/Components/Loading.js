@@ -11,6 +11,7 @@ const Loading = () => {
 
 const Heading = styled.h1`
     text-align: center;
+    margin: 4rem;
 `;
 
 export default Loading;
